@@ -1,0 +1,8 @@
+Any Removable Storage 
+./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b793455dd-fee3-4f21-ade6-0ffc45969ea4%7d/GroupData
+
+Allowed USB Devices
+./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b34df01ca-dff0-427c-a277-28c055ed27e2%7d/GroupData
+
+Removable Storage Policy
+./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyRules/%7b15c848ee-8e4f-4088-a65d-79dd3326056a%7d/RuleData
