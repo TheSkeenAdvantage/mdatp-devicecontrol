@@ -1,0 +1,19 @@
+<Groups>
+	<Group Id="{793455dd-fee3-4f21-ade6-0ffc45969ea4}">
+	<!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b9793455dd-fee3-4f21-ade6-0ffc45969ea4%7d/GroupData -->
+		<MatchType>MatchAny</MatchType>
+		<DescriptorIdList>
+			<PrimaryId>RemovableMediaDevices</PrimaryId>
+			<PrimaryId>CdRomDevices</PrimaryId>
+			<PrimaryId>WpdDevices</PrimaryId>
+		</DescriptorIdList>
+	</Group>
+</Groups>
+<Group Id="{34df01ca-dff0-427c-a277-28c055ed27e2}">
+   <!-- Approved USBs Group -->
+   <!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b34df01ca-dff0-427c-a277-28c055ed27e2%7d/GroupData -->
+    <MatchType>MatchAny</MatchType>
+    <DescriptorIdList>
+        <InstancePathId>USBSTOR\DISK&amp;VEN__USB&amp;PROD__SANDISK_3.2GEN1&amp;REV_1.00\03003324080520232521&amp;*</InstancePathId>
+    </DescriptorIdList>
+</Group>

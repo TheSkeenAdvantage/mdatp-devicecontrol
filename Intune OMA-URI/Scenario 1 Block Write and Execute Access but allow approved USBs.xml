@@ -1,0 +1,20 @@
+<PolicyRule Id="{15c848ee-8e4f-4088-a65d-79dd3326056a}">
+<!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyRules/%7b15c848ee-8e4f-4088-a65d-79dd3326056a%7d/RuleData -->
+    <Name>Block Write and Execute Access but allow approved USBs</Name>
+    <IncludedIdList>
+        <GroupId>{793455dd-fee3-4f21-ade6-0ffc45969ea4}</GroupId>
+    </IncludedIdList>
+    <ExcludedIdList>
+        <GroupId>{34df01ca-dff0-427c-a277-28c055ed27e2}</GroupId>
+    </ExcludedIdList>
+    <Entry Id="{3c1951f6-c1be-41e8-a003-6a72893dce48}">
+        <Type>Deny</Type>
+        <Options>0</Options>
+        <AccessMask>6</AccessMask>
+    </Entry>
+    <Entry Id="{2ad55ca5-cb8d-4b15-ba85-1f36ae0a8a45}">
+        <Type>AuditDenied</Type>
+        <Options>3</Options>
+        <AccessMask>6</AccessMask>
+    </Entry>
+</PolicyRule>

@@ -1,0 +1,17 @@
+<PolicyRule Id="{5ff67e63-aba8-4280-95c1-e86f54086159}">
+    <Name>Audit Write and Execute access to aproved USBs</Name>
+    <IncludedIdList>
+        <GroupId>{34df01ca-dff0-427c-a277-28c055ed27e2}</GroupId>
+    </IncludedIdList>
+    <ExcludedIdList></ExcludedIdList>
+    <Entry Id="{59ef7b67-f2ba-449c-baa9-9560026c8520}">
+        <Type>Allow</Type>
+        <Options>0</Options>
+        <AccessMask>6</AccessMask>
+    </Entry>
+    <Entry Id="{87872500-f710-49a0-847a-0de74db54f04}">
+        <Type>AuditAllowed</Type>
+        <Options>2</Options>
+        <AccessMask>6</AccessMask>
+    </Entry>
+</PolicyRule>
