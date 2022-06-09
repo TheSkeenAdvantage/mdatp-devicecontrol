@@ -1,5 +1,5 @@
 <Group Id="{793455dd-fee3-4f21-ade6-0ffc45969ea4}">
-<!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b9793455dd-fee3-4f21-ade6-0ffc45969ea4%7d/GroupData -->
+<!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b793455dd-fee3-4f21-ade6-0ffc45969ea4%7d/GroupData -->
 	<MatchType>MatchAny</MatchType>
 	<DescriptorIdList>
 		<PrimaryId>RemovableMediaDevices</PrimaryId>
