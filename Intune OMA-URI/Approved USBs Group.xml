@@ -5,5 +5,7 @@
     <DescriptorIdList>
         <InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10068848&amp;*</InstancePathId>
         <InstancePathId>USBSTOR\CDROM&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10068848&amp;*</InstancePathId>
+		<InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10089678&amp;*</InstancePathId>
+		<InstancePathId>USBSTOR\CDROM&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10089678&amp;*</InstancePathId>
     </DescriptorIdList>
 </Group>
