@@ -1,0 +1,9 @@
+<Group Id="{34df01ca-dff0-427c-a277-28c055ed27e2}">
+    <!-- Approved USBs Group -->
+    <!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b34df01ca-dff0-427c-a277-28c055ed27e2%7d/GroupData -->
+    <MatchType>MatchAny</MatchType>
+    <DescriptorIdList>
+        <InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;*</InstancePathId>
+        <InstancePathId>USBSTOR\CDROM&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;*</InstancePathId>
+    </DescriptorIdList>
+</Group>
