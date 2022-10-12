@@ -3,9 +3,11 @@
     <!-- ./Vendor/MSFT/Defender/Configuration/DeviceControl/PolicyGroups/%7b34df01ca-dff0-427c-a277-28c055ed27e2%7d/GroupData -->
     <MatchType>MatchAny</MatchType>
     <DescriptorIdList>
-        <InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10068848&amp;*</InstancePathId>
+        <InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10068884&amp;*</InstancePathId>
         <InstancePathId>USBSTOR\CDROM&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10068848&amp;*</InstancePathId>
 		<InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10089678&amp;*</InstancePathId>
 		<InstancePathId>USBSTOR\CDROM&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10089678&amp;*</InstancePathId>
+        <InstancePathId>USBSTOR\DISK&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10066172&amp;*</InstancePathId>
+		<InstancePathId>USBSTOR\CDROM&amp;VEN_KINGSTON&amp;PROD_IRONKEY_D300SM&amp;REV_PMAP\10066172&amp;*</InstancePathId>
     </DescriptorIdList>
 </Group>
